@@ -1,4 +1,6 @@
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=some;jhcfhsjhjhsdjhsjhs)](https://git.io/typing-svg)
+
 👋 Hey there, I'm Alla!<br>Passionate about automation and committed to software quality. 🚀<br>Check out my projects and let’s connect!
 
 
