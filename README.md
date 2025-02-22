@@ -1,6 +1,5 @@
 # 💫 About Me:
 👋 Hey there, I'm Alla!<br>Passionate about automation and committed to software quality. 🚀
-
 <br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feel+free+to+explore+my+projects.;+Let%E2%80%99s+connect!)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
