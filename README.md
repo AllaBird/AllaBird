@@ -9,6 +9,7 @@
 
 ---
 <span style="color: #FF4500; font-weight: bold;">Let’s connect and build something extraordinary together! 🤝</span>
+📧 You can reach me at: <a href="mailto:your-email@example.com">allavorobieva112@gmail.com</a>
 ## 🌐 Socials:
 [![Codewars](https://www.codewars.com/users/Alla%20B/badges/small)](https://www.codewars.com/users/Alla%20B)
 
