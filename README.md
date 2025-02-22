@@ -1,7 +1,7 @@
 # 💫 About Me:
-
 👋 Hey there, I'm Alla!<br>Passionate about automation and committed to software quality. 🚀
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feel+free+to+explore+my+projects.;+Let%E2%80%99s+connect!)](https://git.io/typing-svg)
+
+<br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feel+free+to+explore+my+projects.;+Let%E2%80%99s+connect!)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alla-vorobieva/) 
